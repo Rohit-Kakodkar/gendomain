@@ -1,0 +1,5 @@
+*.o
+*.mod
+test_input
+output_test
+mpi_submit_script.sh.*
